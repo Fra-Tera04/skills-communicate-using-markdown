@@ -1,7 +1,7 @@
 # Titolo H1
 ## H2
 
-- [] todo list
+- [ ] todo list
 
 
 image:
